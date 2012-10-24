@@ -1,0 +1,24 @@
+[submodule "Themes/solarized"]
+	path = Themes/solarized
+	url = git@github.com:bitfyre/textmate-solarized.git
+[submodule "Bundles/Liquid.tmbundle"]
+	path = Bundles/Liquid.tmbundle
+	url = git@github.com:bitfyre/liquid-tmbundle.git
+[submodule "Bundles/SCSS.tmbundle"]
+	path = Bundles/SCSS.tmbundle
+	url = git@github.com:bitfyre/SCSS.tmbundle.git
+[submodule "Bundles/Haml.tmbundle"]
+	path = Bundles/Haml.tmbundle
+	url = git@github.com:bitfyre/handcrafted-haml-textmate-bundle.git
+[submodule "Bundles/Javascipt-tools.tmbundle"]
+	path = Bundles/Javascipt-tools.tmbundle
+	url = git@github.com:bitfyre/javascript-tools.tmbundle.git
+[submodule "Bundles/JavaScriptExtension.tmbundle"]
+	path = Bundles/JavaScriptExtension.tmbundle
+	url = git@github.com:bitfyre/Javascript-Bundle-Extension.git
+[submodule "Bundles/Ruby.tmbundle"]
+	path = Bundles/Ruby.tmbundle
+	url = git@github.com:bitfyre/ruby-tmbundle.git
+[submodule "Bundles/Rspec.tmbundle"]
+	path = Bundles/Rspec.tmbundle
+	url = git@github.com:bitfyre/rspec-tmbundle.git
