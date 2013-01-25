@@ -1,0 +1,16 @@
+# Version 1.0 -- Generated content!
+encoding         = UTF-8
+softTabs         = true
+tabSize          = 2
+theme            = A4299D9B-1DE5-4BC4-87F6-A757E71B1597
+
+[ gitconfig ]
+fileType         = source.git-config
+
+[ source ]
+softTabs         = true
+tabSize          = 2
+
+[ source.shell ]
+softTabs         = true
+tabSize          = 2
