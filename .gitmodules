@@ -25,3 +25,6 @@
 [submodule "Bundles/XSLT.tmbundle"]
 	path = Bundles/XSLT.tmbundle
 	url = git@github.com:bitfyre/XSLT.tmbundle.git
+[submodule "Bundles/Jasmine.tmbundle"]
+	path = Bundles/Jasmine.tmbundle
+	url = git@github.com:bitfyre/Jasmine.tmbundle.git
