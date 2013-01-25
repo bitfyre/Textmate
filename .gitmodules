@@ -22,3 +22,6 @@
 [submodule "Bundles/Rspec.tmbundle"]
 	path = Bundles/Rspec.tmbundle
 	url = git@github.com:bitfyre/rspec-tmbundle.git
+[submodule "Bundles/XSLT.tmbundle"]
+	path = Bundles/XSLT.tmbundle
+	url = git@github.com:bitfyre/XSLT.tmbundle.git
